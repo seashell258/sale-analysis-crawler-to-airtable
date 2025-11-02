@@ -1,0 +1,18 @@
+{
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-CN;q=0.5",
+    "Authorization": "Bearer AziW6wOtGIH3S3nk4eqheG5LegFNlNNYwUsbC7YY-JWdUIYTJnSaaiEWqWiUaXVx47d2c7caeefad87fd38de0359d522290",
+    "Cache-Control": "no-cache",
+    "Content-Type": "application/json",
+    "Origin": "https://members.helium10.com",
+    "Pragma": "no-cache",
+    "Referer": "https://members.helium10.com/",
+    "Sec-Ch-Ua": "\"Microsoft Edge\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": "\"macOS\"",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55"
+}
