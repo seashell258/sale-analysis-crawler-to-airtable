@@ -2,7 +2,7 @@
     "Accept": "application/json",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-CN;q=0.5",
-    "Authorization": "Bearer LFUgrDudBa_oYjzNnwGBmuL5BW_y35L6x0uHLs_9bI6ub3lWtNew98U1KJXrrIePe4efeaef38cbd9c5362678bb7fd3e810",
+    "Authorization": "Bearer LFUg",
     "Cache-Control": "no-cache",
     "Content-Type": "application/json",
     "Origin": "https://members.helium10.com",
